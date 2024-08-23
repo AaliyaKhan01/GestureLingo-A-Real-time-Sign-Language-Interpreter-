@@ -1,4 +1,4 @@
-# GestureLingo-A-Real-time-Sign-Language-Interpreter-Gesture Recognition System Using MediaPipe and OpenCV
+# GestureLingo-A-Real-time-Sign-Language-Interpreter
 Project Objectives
 Develop a Real-Time Gesture Recognition System: Create a system that can recognize and interpret hand gestures from live video feed using a webcam.
 Capture and Save Gesture Images: Implement functionality to capture images of hand gestures, saving them for use in training the recognition model.
